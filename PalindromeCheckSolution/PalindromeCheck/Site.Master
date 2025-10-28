@@ -59,6 +59,9 @@
             <hr />
             <footer>
                 <p>&copy; <%: DateTime.Now.Year %> - Anderson Diego</p>
+                  <p>
+                    <a target="_blank" href="https://www.linkedin.com/in/andersondiego/">Anderson Diego ~ Linkedin</a>
+                </p>
             </footer>
         </div>
     </form>
